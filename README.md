@@ -7,7 +7,7 @@
 - Objective: Develop a model to classify images of microorganisms based on features
 
 # 2. DatasetSource
-The dataset is rom kaggle
+The dataset is from kaggle
 # 3. Dataset Preparation
 ImageDataGenerator from Keras is used to preprocess the images, including:
 Rescaling pixel values to a range of [0, 1].
