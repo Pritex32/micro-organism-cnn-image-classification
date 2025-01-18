@@ -3,8 +3,8 @@
 ## deployed on streamlit cloud link [https://micro-organism-cnn-image-classification-hlh7ygaohbzgkzdm6zjph4.streamlit.app/]
 
 # Project Overview
-Author: Prisca
-Objective: Develop a model to classify images of microorganisms based on features
+- Author: Prisca
+- Objective: Develop a model to classify images of microorganisms based on features
 
 # 2. DatasetSource
 The dataset is rom kaggle
