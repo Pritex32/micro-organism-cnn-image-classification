@@ -7,7 +7,7 @@ import tensorflow
 from tensorflow.keras.preprocessing import image
 
 
-model=load_model('micro_organism_nn_model.keras')
+model=load_model('micro_organism_nn_model.h5')
 
 st.title('micro organism image classification'.upper())
 uploaded_img = st.file_uploader('Upload an Image', type=['png', 'jpg', 'jpeg'])
